@@ -171,8 +171,6 @@ hr
 
 .btn 
 {
-    -webkit-border-radius: 24;
-    -moz-border-radius: 24;
     border-radius: 24px;
     font-family: Courier New;
     color: #0F4C75;
