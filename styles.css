@@ -125,6 +125,7 @@ hr
     position: absolute;
     bottom: 0;
     left: 350px;
+    width: auto;
 }
 
 .highlight
