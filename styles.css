@@ -60,6 +60,11 @@ hr
     padding-bottom: 300px;
 }
 
+.mountain-style
+{
+    position: relative;
+}
+
 .middle-container
 {
     padding-top: 50px;
@@ -75,7 +80,6 @@ hr
 .ending
 {
     margin: 20px auto 0;
-    width: auto;
 }
 
 .bottom-container
@@ -123,9 +127,9 @@ hr
 #mountain
 {
     position: absolute;
-    bottom: 0;
-    left: 350px;
-    width: auto;
+    top: 166px;
+    left: 400px;
+
 }
 
 .highlight
@@ -171,6 +175,8 @@ hr
 
 .btn 
 {
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
     border-radius: 24px;
     font-family: Courier New;
     color: #0F4C75;
